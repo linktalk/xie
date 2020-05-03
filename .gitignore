@@ -1,0 +1,10 @@
+# Default ignored files
+/build/
+/dist/
+/out/
+/javadoc/
+/.gradle/
+/.idea/
+/.idea/workspace.xml
+.*.swp
+.*.swo/
